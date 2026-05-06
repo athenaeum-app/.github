@@ -7,5 +7,5 @@
 Athena is a local-first knowledge management and note-taking application. It is designed to work completely offline on your local machine, with the option to synchronize across devices using a self-hosted backend.
 
 ## Repositories
-* **[Athena Client](link-to-repo):** The desktop application.
-* **[Athena Server](link-to-repo):** The optional Go-based backend. Deploy this to enable multi-device syncing, library sharing, and real-time chat.
+* **[Athena Client](https://github.com/athenaeum-app/athena-client):** The desktop application.
+* **[Athena Server](https://github.com/athenaeum-app/athena-server):** The optional Go-based backend. Deploy this to enable multi-device syncing, library sharing, and real-time chat.
