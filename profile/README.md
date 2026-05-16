@@ -18,7 +18,6 @@
 * **Markdown Support:** Create and edit moments using standard Markdown syntax.
 * **GitHub Flavored Markdown (GFM):** Use enhanced Markdown rendering with GFM support for tables, task lists, and more.
 * **Syntax Highlighting:** Code blocks within your moments will be highlighted using highlight.js for improved readability.
-* **Chat:** Send and receive chat messages per library. Also available for offline libraries, for short and quick logging. No logging in is required.
 * **No Accounts Required:** Athena requires no accounts at all. Even for online-libraries. No need to keep track of another set of credentials.
 
 ---
